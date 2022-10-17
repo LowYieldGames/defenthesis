@@ -54,6 +54,9 @@ paginate_path: /page:num/
 disqus:
   shortname: https-lowyieldgames-github-io-defenthesis
 
+# Google Analytics
+google_analytics: UA-245969116-1
+
 # Exclude from processing.
 exclude:
   - .asset-cache
