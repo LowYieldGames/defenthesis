@@ -50,6 +50,10 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
+# Disqus
+disqus:
+  shortname: https-lowyieldgames-github-io-defenthesis
+
 # Exclude from processing.
 exclude:
   - .asset-cache
