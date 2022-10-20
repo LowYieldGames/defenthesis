@@ -1,19 +1,49 @@
 ---
 layout: post
-title:  "This is a Test Post"
-subtitle: "Example subtitle."
-excerpt: "This is like a preview of the blog post."
+title:  "Changelog v0.0.0"
+subtitle: 
+excerpt_separator: "<!--more-->"
 categories: 
-- test
-image: '/img/posts/TestPost/test.jpg'
+- defenthesis
+image: '/img/posts/2022-10-19-Changelogv001/Towers+gizmos_2.png'
 tags:
-- tag1
-- tag2
-- tag3
 comments: true
-id: 20221016TestPost
+id: 2022-10-19-Changelogv000
 ---
 
+Excerpt goes here. 
+
+<!--more-->
+<br>
+
+### ADDED
+- (new features)
+- gifs showing new features w/ short description
+
+### CHANGED
+- (sideways, not fixed)
+- gifs showing difference between old and new w/ short description
+
+### FIXED
+- (was buggy, now it's not)
+- gifs showing buggy version vs. non-buggy version
+
+### REMOVED
+- no gifs needed, or gif showing the problem if it is applicable
+
+### UP NEXT
+
+---
+
+## THOUGHTS
+- Discussion about the how and why things were changed, added, or removed
+- Lots of technical depth if needed
+
+## RESOURCES
+- Links to cool resources that I find
+
+## MUSIC
+Link to song
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
