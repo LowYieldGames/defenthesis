@@ -5,7 +5,7 @@ subtitle: "Example subtitle."
 excerpt: "This is like a preview of the blog post."
 categories: 
 - test
-background: '/img/posts/TestPost/test.jpg'
+image: '/img/posts/TestPost/test.jpg'
 tags:
 - tag1
 - tag2
