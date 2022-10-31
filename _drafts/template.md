@@ -35,14 +35,14 @@ Excerpt goes here.
 
 ---
 
-## THOUGHTS
+### THOUGHTS
 - Discussion about the how and why things were changed, added, or removed
 - Lots of technical depth if needed
 
-## RESOURCES
+### RESOURCES
 - Links to cool resources that I find
 
-## MUSIC
+### MUSIC
 Link to song
 
 {% if page.comments %}
